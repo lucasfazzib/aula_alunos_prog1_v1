@@ -4,7 +4,7 @@
 
 #### O que é um algoritimo ?
 
-     Um algoritimo no fundo é basicamente uma sequencia finita, ous eja, um numero limitado de passos( sejam instruções, operações, comandos)
+     Um algoritimo no fundo é basicamente uma sequencia finita, ou seja, um numero limitado de passos( sejam instruções, operações, comandos)
      com o objetivo de resolver um problema, e essa resolução de problemas envolve uma transformação de uma ou mais informações.
 
      Abstrato né? Mas até sua vó já fez um algoritimo e não sabia, ou talvez sabia rs, um receita de bolo por exemplo, você precisa
@@ -16,7 +16,7 @@
 
 ##### OK, MAS O QUE ISSO TEM A VER ?
 
-#### Se refletirmos todo esse processo que foi feito, chegamos a seguinte conclusão:
+      Se refletirmos todo esse processo que foi feito, chegamos a seguinte conclusão:
         
 #### Ela transforma uma informação ? 
   -> Sim, porque foi transformado os ingredientes (informação bruta) em bolo.
