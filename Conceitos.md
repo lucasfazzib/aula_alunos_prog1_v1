@@ -19,16 +19,16 @@
       Se refletirmos todo esse processo que foi feito, chegamos a seguinte conclusão:
         
 #### Ela transforma uma informação ? 
-  -> Sim, porque foi transformado os ingredientes (informação bruta) em bolo.
+     -> Sim, porque foi transformado os ingredientes (informação bruta) em bolo.
 
 #### Ela é uma sequencia finita de passos?
-   -> 9 passos mais ou menos, ou seja ela começa e termina.
+     -> 9 passos mais ou menos, ou seja ela começa e termina.
 
 #### Ela é ordenada ?
-   -> Sim, pois se por exemplo, mudarmos uma das instruções de ordem, provavelmente não daria certo, se eu começasse com o passo de colocar a assadeira no forno, nós não teriamos a massa pronta, consegue entender?
+     -> Sim, pois se por exemplo, mudarmos uma das instruções de ordem, provavelmente não daria certo, se eu começasse com o passo de colocar a assadeira no forno, nós não teriamos a massa pronta, consegue entender?
 
 #### Resolve um problema?
-   -> Sim, com certeza, se tem BOLO então matamos a nossa fome ! XD
+     -> Sim, com certeza, se tem BOLO então matamos a nossa fome ! XD
 
 
 
