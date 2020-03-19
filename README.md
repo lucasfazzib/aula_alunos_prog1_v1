@@ -12,7 +12,7 @@
 
 [Decisões](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Decisoes.md)
 
-Repetições
+[Repetições](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Repeticao.md)
 
 
 ## Desenvolvimento Ágil 
