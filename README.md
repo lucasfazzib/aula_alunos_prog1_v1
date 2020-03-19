@@ -1,7 +1,8 @@
-# aula_alunos_prog1_v1
-# Lucas Fazzi
-
-## Projeto social público de Aulas para alunos de uma instituição docente
+#### 💻 Aula Alunos Prog1
+#### Lucas Fazzi
+<h4 align="center">
+  ☕ Projeto social público de Aulas para alunos de uma instituição docente
+</h4>
 
 ## Programação
 
