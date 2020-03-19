@@ -33,3 +33,6 @@
 
 
 #### Abaixo temos um exemplo de condições no nosso antigo algoritimo de receita:
+
+
+![Decisao](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/condicao.PNG)
