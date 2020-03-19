@@ -10,7 +10,7 @@
 
 [Variáveis e Operacoes](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Variaveis_e_Operacoes.md)
 
-Decisões
+[Decisões](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Decisoes.md)
 
 Repetições
 
