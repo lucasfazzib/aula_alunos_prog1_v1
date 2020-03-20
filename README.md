@@ -29,9 +29,9 @@
 
 ## Versionamento GIT
 
-Versionamento: Principais Ferramentas
+[Versionamento: Principais Ferramentas](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Versionamento_GIT/Versionamento.md)
 
-Init Add Commit
+[Init Add Commit](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Versionamento_GIT/init_add_commit.md)
 
 Log, Status e Show
 
