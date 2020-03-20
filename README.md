@@ -6,26 +6,26 @@
 
 ## Programação
 
-[Algoritimos](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Algoritimo.md)
+[Algoritimos](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Programacao/Algoritimo.md)
 
-[Variáveis e Operacoes](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Variaveis_e_Operacoes.md)
+[Variáveis e Operacoes](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Programacao/Variaveis_e_Operacoes.md)
 
-[Decisões](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Decisoes.md)
+[Decisões](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Programacao/Decisoes.md)
 
-[Repetições](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Repeticao.md)
+[Repetições](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Programacao/Repeticao.md)
 
 
 ## Desenvolvimento Ágil 
 
-[Scrum: O que é e para que serve](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Scrum.md)
+[Scrum: O que é e para que serve](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Desenvolvimento_Agil/Scrum.md)
 
-[Papéis](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Papeis.MD)
+[Papéis](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Desenvolvimento_Agil/Papeis.MD)
 
-[Eventos](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Eventos.md)
+[Eventos](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Desenvolvimento_Agil/Eventos.md)
 
-[Artefatos e Refinamento](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Artefatos_e_Refinamento.md)
+[Artefatos e Refinamento](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Desenvolvimento_Agil/Artefatos_e_Refinamento.md)
 
-[Kanban e Extreme Programming](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Kanban_e_ExtremeProgamming.md)
+[Kanban e Extreme Programming](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Desenvolvimento_Agil/Kanban_e_ExtremeProgamming.md)
 
 ## Versionamento GIT
 
