@@ -35,7 +35,7 @@ Init Add Commit
 
 Log, Status e Show
 
-Branch, Checkou, Merge e Push
+Branch, Checkout, Merge e Push
 
 Clone e Pull
 
