@@ -31,16 +31,4 @@
 
 [Versionamento: Principais Ferramentas](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Versionamento_GIT/Versionamento.md)
 
-[Init Add Commit](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Versionamento_GIT/init_add_commit.md)
-
-Log, Status e Show
-
-Branch, Checkout, Merge e Push
-
-Clone e Pull
-
-Ignore
-
-Pull Request
-
-Gitflow
+[Principais comandos](https://github.com/lucasfazzib/aula_alunos_prog1_v1/blob/master/Versionamento_GIT/init_add_commit.md)
