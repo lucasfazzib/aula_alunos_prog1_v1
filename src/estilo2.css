@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: sienna;
     font-family: sans-serif;
 }
 
@@ -61,6 +61,17 @@ a {
     margin-bottom: 10px;
 }
 
+h1{
+    animation-name: mudacor;
+    animation-duration: 5s;
+    color: red;
+}
+
+@keyframes mudacor{
+    from {color: red;}
+    to {color: yellow;}
+}
+
 h3{
     text-align: center;
     font-size: 30px;
@@ -80,7 +91,7 @@ h3{
 #rodape{
     display: flex;
     justify-content: space-between;
-    background-color: slategrey;
+    background-color: teal;
     margin-top: 30px;
 }
 
