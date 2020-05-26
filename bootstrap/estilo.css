@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+.container{
+    background-color: white;
+}
+
+#logoLoja{
+    width: 100%;
+}
+
+h3{
+    text-align: center;
+}
+#imagemLogo{
+    margin-bottom: 30px;
+}
