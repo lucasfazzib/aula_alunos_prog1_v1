@@ -6,6 +6,9 @@ body{
     background-color: white;
 }
 
+.container-fluid{
+    background-color: white;
+}
 #logoLoja{
     width: 100%;
 }
@@ -15,4 +18,30 @@ h3{
 }
 #imagemLogo{
     margin-bottom: 30px;
+}
+
+#tituloDestaques{
+    margin-bottom: 30px;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+#rodape{
+    color: white;
+    padding-top: 50px;
+    background-color: darkgrey;
+}
+
+#imgRodape{
+    width: 5%;
+}
+
+#textEmail{
+    padding-left: 50px;
 }
