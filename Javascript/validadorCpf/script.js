@@ -50,7 +50,14 @@ function validacao() {
     var cpf = document.getElementById('cpf_digitado').value;
     //console.log(cpf);
 
-    var resultadoValidacao = validaCPF(cpf);
+    const regex = new RegExp('[0-9]{3}[0-9]{3}[0-9]{3}[0-9]{2}');
+    var cpfEstruturado = cpf.match(regex);
+    //console.log(cpfEstruturado[0].length);
+    if(cpfEstruturado) {
+        var resultadoValidacao = validaCPF(cpfEstruturado[0]);
+    } else {
+        document.getElementById('error').style.display = 'block';
+    }
 
     if (resultadoValidacao) {
         document.getElementById('success').style.display = 'block';
