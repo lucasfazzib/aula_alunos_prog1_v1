@@ -112,7 +112,28 @@
 
 ## Consumindo dados de uma API com axios
 
+        -> Instalando o axios: npm install axios
+
 ## Utilizando React Router para criar rotas
+
+        -> https://reacttraining.com/react-router/web
+        npm install react-router-dom
+        import React from 'react';
+        import { Switch, Route, BrowserRouter } from 'react-dom';
+        import Repositories from './Repositories';
+
+        import Repositories from './Repositories';
+
+
+        export default function Router(){
+            return (
+                <BrowserRouter>
+                    <Switch>
+                    <Route path='/repositories' component={Repositories} />
+                    </Switch>
+                </BrowserRouter>
+            )
+        }
 
 ## Boa práticas: organização e estilo
 
