@@ -136,5 +136,7 @@
         }
 
 ## Boa práticas: organização e estilo
+        https://styled-components.com/
+        npm install --save styled-components
 
 ## Entendendo, na prática, o poder da programação declarativa.
