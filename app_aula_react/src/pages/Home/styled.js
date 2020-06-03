@@ -28,11 +28,25 @@ export const Button = styled.button`
     }
 `;
 
+export const HomeContainer = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-itens: center;
+    justify-content: center;
+    height: 100vw;
+`
 
-export const Container = styled.div`
-    width: 100%;
-    height: 100%;
+export const Content = styled.div`
+    width: 100vw;
     display: flex;
     align-itens: center;
     justify-content: center;
+`
+
+export const ErrorMessage = styled.span`
+    display: block;
+    font-size: 0.65rem;
+    color: red;
+    font-weigth: 600;
+    margin-top: 1rem;
 `
